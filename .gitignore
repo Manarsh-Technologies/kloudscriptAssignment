@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/kloudScript.NUnit.ApiTest/bin/Debug/net6.0
+/kloudScript.NUnit.ApiTest/obj
+/kloudscript.Test.API/.vs/kloudscript.Test.API
+/kloudscript.Test.API/bin/Debug/net6.0
+/kloudscript.Test.API/obj
